@@ -1,0 +1,58 @@
+@import url('https://googleapis.com'); 
+
+body {
+
+    background-color: rgb(230, 12, 12);
+
+}
+
+.pii {
+
+text-align: center;
+
+color: black;
+font-size: 4rem;
+
+     font-family: "Permanent Marker", cursive;
+  font-weight: 400;
+  font-style: normal;
+
+}
+
+.mii {
+
+
+    color: black;
+
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+.pp{
+
+    color: black;
+
+  line-height: 1.5;
+
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    font-size: 1.1rem;
+    
+}
+
+img {
+
+    display: block;
+    margin: 0 auto;
+    max-width: 30%;
+    height: auto;
+
+}
+
+footer {
+
+    font-family: 'Courier New', Courier, monospace;
+
+    text-align: center;
+
+    color: black;
+}
